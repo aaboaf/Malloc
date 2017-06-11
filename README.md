@@ -1,0 +1,1 @@
+CS154 Malloc project from UChicago. Achieved a deterministic score of 97 with an explicit list implementation. Efficiency could be improved with a segmented list.
